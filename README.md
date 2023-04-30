@@ -8,4 +8,4 @@ Neste projeto, exercitei um pouco o uso de fetch e async/await para criar coment
 
 ## Página do Projeto
 
-[Fetch API](#)
+[Fetch API](https://fetch-api-ruby.vercel.app/index.html)
